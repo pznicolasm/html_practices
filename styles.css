@@ -1,0 +1,57 @@
+html{
+    background-color: rgb(196, 177, 138);
+}
+
+.titulo {
+    font-size: 1.5em;
+    text-align: center;
+    color: green;
+}
+
+#parientes{
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+.estudios{
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+.redes{
+    text-align: center;
+}
+
+.img{
+    width: 15%;
+    border-radius: 60px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.caja-padre {
+    display: flex;
+    justify-content: center;
+}
+
+.caja {
+    text-align: center;
+    width: 100px;
+    height: 60px;
+}
+
+.fb {
+    background-color: #3b5998;
+    padding-top: 1em;
+}
+
+.tw {
+    background-color: #00acee;
+    padding-top: 1em;
+}
+
+.ld {
+    background-color:#0e76a8;
+    padding-top: 1em;
+}
